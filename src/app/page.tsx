@@ -3,6 +3,7 @@ import ServerComponent from "@/components/server-component/server-component";
 import Link from "next/link";
 
 export default function page() {
+  // add comment 1
   return (
     <div className="p-5">
       <nav className="mb-3 pb-3 border-b border-gray-200 flex gap-3">
