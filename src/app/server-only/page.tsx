@@ -1,7 +1,7 @@
 import ClientComponent from "@/components/client-component/client-component";
 // import { getProduct } from "@/data/product";
 import React from "react";
-
+// comment 5
 export default async function page() {
   return (
     <div>
