@@ -12,6 +12,7 @@ export default function page() {
         <Link href="/dynamic/9">Detail</Link>
         <Link href="/free-style">Free style</Link>
         <Link href="/server-only">Server only</Link>
+        <Link href="/cache">Cache</Link>
       </nav>
 
       <div className="flex gap-4">
