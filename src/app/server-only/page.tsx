@@ -3,6 +3,8 @@ import ClientComponent from "@/components/client-component/client-component";
 import React from "react";
 // comment 5
 export default async function page() {
+  console.log("1");
+  console.log("2");
   return (
     <div>
       <h1>server only</h1>
